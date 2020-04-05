@@ -4,3 +4,4 @@ Blog de prueba de curso git y GitHub de Platzi
 >-  como inteligencia artificial
 >-  Creado por el increible Platzi Team 
 >-  Incluye ejemplos en windows, linux y mac
+>-  Disponible para todas las edades
